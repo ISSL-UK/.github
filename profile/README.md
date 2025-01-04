@@ -1,1 +1,1 @@
-# Institute of Intelligent System Software in the UK
+# Intelligent System Software Lab @Leeds
